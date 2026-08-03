@@ -3,7 +3,7 @@
 **Systems architect, engineering leader, and fractional CTO.** 20+ years building software, from native mobile to enterprise platforms to the cloud infrastructure underneath them.
 
 [![Website](https://img.shields.io/badge/Website-laughterconsulting.com-0284c7?style=for-the-badge&logo=safari&logoColor=white)](https://laughterconsulting.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niclaughter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niclaughter/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niclaughter-0077B5?style=for-the-badge)](https://www.linkedin.com/in/niclaughter/)
 [![Blog](https://img.shields.io/badge/Blog-Writing-1f2937?style=for-the-badge&logo=rss&logoColor=white)](https://laughterconsulting.com/blog/)
 
 ---
@@ -51,9 +51,9 @@ Every technology here is something I picked up because a problem needed it. The 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
